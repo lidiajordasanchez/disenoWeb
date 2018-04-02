@@ -1,0 +1,15 @@
+body>header> h1{
+  font-family: 'Kalam', cursive;
+}
+nav a {
+  border:dotted red 1px;
+  padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+  text-shadow: 1px 5px lightgrey;
+  text-align: center;
+  width: 50%;
+    float:left;
+}
