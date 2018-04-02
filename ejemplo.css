@@ -1,9 +1,0 @@
-p {color:red}
-
-nav a {color: green;
-padding: 20px;
-border:dotted 1px blue;
-}
-
-p+p {background-color: yellow}
-
