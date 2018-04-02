@@ -1,0 +1,8 @@
+
+a {border:dotted 1px yellow}
+a:hover {border:double 1px blue}
+
+a:active{background-color: black}
+
+@media screen and (max-width:500px)
+{img(display:none)}
